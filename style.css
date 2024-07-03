@@ -1,7 +1,7 @@
 /* Estilos do menu */
 .menu {
     display: flex;
-    justify-content: center;
+    justify-content: left;
     background-color: #d585fb;
     font-size: 24px;
 }
